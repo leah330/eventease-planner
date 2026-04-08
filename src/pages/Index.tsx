@@ -24,7 +24,7 @@ const Index = () => (
       <div className="hero-overlay absolute inset-0" />
       <div className="relative z-10 text-center px-4 max-w-3xl animate-fade-in">
         <h1 className="font-display text-4xl md:text-6xl font-bold text-cream mb-4">
-          LeahPro <span className="text-gold">Events</span>
+          Event Easy Planner <span className="text-gold">Events</span>
         </h1>
         <p className="text-lg md:text-xl text-cream/90 mb-8 font-body">
           Your premier destination for booking stunning venues for any occasion. From weddings to corporate galas, we make your events unforgettable.
