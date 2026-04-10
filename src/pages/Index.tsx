@@ -34,6 +34,7 @@ const Index = () => (
           className="inline-flex items-center justify-center gold-gradient px-8 py-4 rounded-md text-charcoal font-semibold text-lg hover:opacity-90 transition-opacity shadow-lg"
         >
           Book Event
+          
         </Link>
       </div>
     </section>
